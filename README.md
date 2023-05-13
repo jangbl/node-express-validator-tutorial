@@ -8,7 +8,7 @@ This repository contains the code for the flowwing[express-validator Node.js tut
 
 [![express-validator-node-js-tutorial](images/express-validator-node-js-tutorial.png)](https://www.youtube.com/watch?v=7i7xmwowwCY)
 
-For updates, please reach out to [@productioncoder](https://twitter.com/productioncoder) on Twitter.
+For updates, please reach out to [@_jgoebel](https://twitter.com/_jgoebel) on Twitter.
 
 Please also check out my website at [jangoebel.com](https://jangoebel.com)
 
